@@ -1,1 +1,3 @@
-console.log("DB.JS");
+function saveRecord(record) {
+  console.log(record);
+}
